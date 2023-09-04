@@ -49,6 +49,7 @@ nav ul li a{
 }
 nav ul li a:hover{
 	color: #00FFE1;
+	padding: 5px;
 }
 .content {
 	text-align: center;
